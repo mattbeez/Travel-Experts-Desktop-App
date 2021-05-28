@@ -1,0 +1,12 @@
+F:\Documents\GitHub\Team4-cSharp-TechCareer\TravelExpertsDesktopApp\DBModels\bin\Debug\netcoreapp3.1\DBModels.deps.json
+F:\Documents\GitHub\Team4-cSharp-TechCareer\TravelExpertsDesktopApp\DBModels\bin\Debug\netcoreapp3.1\DBModels.runtimeconfig.json
+F:\Documents\GitHub\Team4-cSharp-TechCareer\TravelExpertsDesktopApp\DBModels\bin\Debug\netcoreapp3.1\DBModels.runtimeconfig.dev.json
+F:\Documents\GitHub\Team4-cSharp-TechCareer\TravelExpertsDesktopApp\DBModels\bin\Debug\netcoreapp3.1\DBModels.dll
+F:\Documents\GitHub\Team4-cSharp-TechCareer\TravelExpertsDesktopApp\DBModels\bin\Debug\netcoreapp3.1\DBModels.pdb
+F:\Documents\GitHub\Team4-cSharp-TechCareer\TravelExpertsDesktopApp\DBModels\obj\Debug\netcoreapp3.1\DBModels.AssemblyInfoInputs.cache
+F:\Documents\GitHub\Team4-cSharp-TechCareer\TravelExpertsDesktopApp\DBModels\obj\Debug\netcoreapp3.1\DBModels.AssemblyInfo.cs
+F:\Documents\GitHub\Team4-cSharp-TechCareer\TravelExpertsDesktopApp\DBModels\obj\Debug\netcoreapp3.1\DBModels.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\Team4-cSharp-TechCareer\TravelExpertsDesktopApp\DBModels\obj\Debug\netcoreapp3.1\DBModels.dll
+F:\Documents\GitHub\Team4-cSharp-TechCareer\TravelExpertsDesktopApp\DBModels\obj\Debug\netcoreapp3.1\DBModels.pdb
+F:\Documents\GitHub\Team4-cSharp-TechCareer\TravelExpertsDesktopApp\DBModels\obj\Debug\netcoreapp3.1\DBModels.genruntimeconfig.cache
+F:\Documents\GitHub\Team4-cSharp-TechCareer\TravelExpertsDesktopApp\DBModels\obj\Debug\netcoreapp3.1\DBModels.csproj.AssemblyReference.cache

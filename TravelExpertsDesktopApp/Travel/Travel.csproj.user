@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="EditPackageProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProductFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProductSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formAddPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formAddSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formPackageList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formSupplierProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductsFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SuppliersFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
